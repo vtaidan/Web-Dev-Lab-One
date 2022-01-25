@@ -23,6 +23,8 @@ nav a:visited {color: black;}
 nav a:hover {color: blue;}
 main{
 	padding-top: 10px;
+	margin-left:10%;
+	margin-right:10%;
 }
 h2 {
 	font-size: 15em;
